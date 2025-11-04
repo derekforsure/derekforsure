@@ -14,8 +14,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Tain Yan Tun's GitHub stats](https://github-readme-stats.vercel.app/api?username=TainYanTun&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TainYanTun&layout=compact)
+![Tain Yan Tun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=derekforsure&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=derekforsure&layout=compact&theme=default)
 
 ---
 
