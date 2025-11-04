@@ -10,12 +10,12 @@ Focused on **Web Development** & the **Data Field**.
 
 ---
 
-## 🚀 Quick Facts
-- 🎓 IT Student & Creative Developer  
-- 💻 Main focus: **Web Development**, **Data**  
-- 🛠️ Tech highlights: HTML · CSS · JavaScript · React · Python  
-- 🔭 Currently building: portfolio projects & data experiments  
-- 🌱 Always learning: advanced JavaScript patterns, data visualization, and deployment workflows
+## Quick Facts
+- IT student and creative developer  
+- Focused on web development and data analysis  
+- Proficient in HTML, CSS, JavaScript, React, and Python  
+- Currently developing personal projects and expanding technical expertise  
+- Committed to continuous learning and building practical, impactful solutions
 
 ---
 
@@ -58,10 +58,9 @@ Focused on **Web Development** & the **Data Field**.
 
 ## 📫 Connect
 <p>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%234A90E2.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/tainyantun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your-derek@gsuite.apiu.edu"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/Leo_tainyan" target="_blank"><img src="https://img.shields.io/badge/X-%FFFFFF.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
 </p>
 
 ---
@@ -74,10 +73,4 @@ Focused on **Web Development** & the **Data Field**.
 ---
 
 ## 🙏 Thanks for visiting
-If you like what you see, feel free to connect or ⭐ my projects!
-
----
-
-<p align="center">
-  <small>Made with ❤️ by Tain Yan Tun — keeping things clean, simple, and beautifully crafted.</small>
-</p>
+If you like what you see, feel free to connect on my projects!
