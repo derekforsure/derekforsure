@@ -5,7 +5,7 @@ Focused on **Web Development** & the **Data Field**.
 
 <p align="center">
   <!-- Animated typing -->
-  <img src="https://readme-typing-svg.herokuapp.com/?size=22&lines=Web+Developer;Data+Enthusiast;Data%2FEngineering+Lover;Always+Learning&center=true" alt="typing">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=22&lines=Web+Developer;Data+Engineer;Always+Learning&center=true" alt="typing">
 </p>
 
 ---
