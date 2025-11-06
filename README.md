@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Tain Yan Tun 👋
+# Hi there, I'm Tain Yan Tun (DEREK)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=IT+Student+%26+Creative+Developer;Web+Development+Enthusiast;Data+Engineering+Explorer;Always+Learning+%26+Building;Open+to+Collaboration!)](https://git.io/typing-svg)
 
