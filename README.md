@@ -1,8 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dc4e4,50:8aadf4,100:7dc4e4&height=300&section=header&text=Hiya!%20I'm%20Derek&fontSize=70&fontColor=f0f6ff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20•%20Software%20Developer%20•%20Digital%20Creator&descSize=20&descAlignY=55)](https://github.com/derekforsure)
 
-
-<br>
-
 ```typescript
 const tain = {
   role: "IT Student & Creative Developer",
