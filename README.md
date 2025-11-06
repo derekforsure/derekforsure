@@ -1,16 +1,5 @@
-<div align="center">
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dc4e4,50:8aadf4,100:7dc4e4&height=300&section=header&text=Hiya!%20I'm%20Derek&fontSize=70&fontColor=f0f6ff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20•%20Software%20Developer%20•%20Digital%20Creator&descSize=20&descAlignY=55)](https://github.com/derekforsure)
 
-# Hi there, I'm Tain Yan Tun (DEREK)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=IT+Student+%26+Creative+Developer;Web+Development+Enthusiast;Data+Engineering+Explorer;Always+Learning+%26+Building;Open+to+Collaboration!)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=derekforsure&style=flat-square&color=blue&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tainyantun/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Leo_tainyan?style=flat-square&logo=x&color=000000)](https://x.com/Leo_tainyan)
-
-</div>
-
----
 
 ## 🚀 About Me
 
@@ -26,22 +15,6 @@ const tain = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-I'm passionate about building **clean, user-centric web applications** and exploring the intersection of **development and data**. Currently expanding my expertise through hands-on projects and continuous learning.
-
-### 🎯 Quick Highlights
-
-- 🔭 Working on personal projects involving **React** and **Python**
-- 🌱 Deepening knowledge in **Data Engineering** & **Modern Web Development**
-- 💡 Love solving problems through code and creative thinking
-- 🎨 Strong eye for design and user experience
-- 🤝 Open to collaborating on innovative projects
-- ⚡ Fun fact: I debug better after a good cup of coffee ☕
-
-<br clear="right"/>
-
----
 
 ## 💼 What I Do
 
